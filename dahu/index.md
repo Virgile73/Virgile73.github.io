@@ -20,5 +20,9 @@ Ce projet est une application de consultation et notation des restaurant affich�
 - Noter et commenter les restaurants
 - Consulter les restaurant les plus proches de  soit sur maps
 
+## Mon rôle
+- Développeur front-end
+- Intégration de google maps en utilisant la biblihotèque Angular officielle
+
 ## 🔗 Liens
 - Le projet étant fait sur gitlab, m'envoyer un mail pour voir le code
