@@ -21,6 +21,7 @@ Ce projet est une application de consultation et notation des restaurant affich�
 - Consulter les restaurant les plus proches de  soit sur maps
 
 ## Mon rôle
+- Equipe de 7 personnes
 - Développeur front-end
 - Intégration de google maps en utilisant la biblihotèque Angular officielle
 
