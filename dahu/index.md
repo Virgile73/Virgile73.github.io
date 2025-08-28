@@ -22,4 +22,3 @@ Ce projet est une application de consultation et notation des restaurant affich�
 
 ## 🔗 Liens
 - Le projet étant fait sur gitlab, m'envoyer un mail pour voir le code
-
